@@ -1,0 +1,3 @@
+com/example/fullstackapp/base/AbstractIntegrationTest.class
+com/example/fullstackapp/base/AbstractE2ETest.class
+com/example/fullstackapp/base/AbstractUnitTest.class

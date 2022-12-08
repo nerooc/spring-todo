@@ -1,0 +1,12 @@
+com/example/fullstackapp/domain/todo/Item$ItemBuilder.class
+com/example/fullstackapp/domain/todo/ItemNotFoundException.class
+com/example/fullstackapp/domain/todo/Item.class
+com/example/fullstackapp/TodolistBeApplication.class
+com/example/fullstackapp/domain/todo/ItemRepository.class
+com/example/fullstackapp/infrastructure/rest/ItemController.class
+com/example/fullstackapp/domain/TimeService.class
+com/example/fullstackapp/application/ItemDetails$ItemDetailsBuilder.class
+com/example/fullstackapp/infrastructure/repository/ItemJpaRepository.class
+com/example/fullstackapp/application/ItemDetails.class
+com/example/fullstackapp/infrastructure/repository/ItemRepositoryImpl.class
+com/example/fullstackapp/application/ItemService.class

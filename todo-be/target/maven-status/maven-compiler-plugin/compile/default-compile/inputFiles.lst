@@ -1,0 +1,10 @@
+/Users/nerooc/Documents/Git/todolist/spring-todo/todo-be/src/main/java/com/example/fullstackapp/application/ItemDetails.java
+/Users/nerooc/Documents/Git/todolist/spring-todo/todo-be/src/main/java/com/example/fullstackapp/infrastructure/repository/ItemRepositoryImpl.java
+/Users/nerooc/Documents/Git/todolist/spring-todo/todo-be/src/main/java/com/example/fullstackapp/TodolistBeApplication.java
+/Users/nerooc/Documents/Git/todolist/spring-todo/todo-be/src/main/java/com/example/fullstackapp/domain/todo/ItemNotFoundException.java
+/Users/nerooc/Documents/Git/todolist/spring-todo/todo-be/src/main/java/com/example/fullstackapp/domain/todo/ItemRepository.java
+/Users/nerooc/Documents/Git/todolist/spring-todo/todo-be/src/main/java/com/example/fullstackapp/domain/todo/Item.java
+/Users/nerooc/Documents/Git/todolist/spring-todo/todo-be/src/main/java/com/example/fullstackapp/domain/TimeService.java
+/Users/nerooc/Documents/Git/todolist/spring-todo/todo-be/src/main/java/com/example/fullstackapp/infrastructure/rest/ItemController.java
+/Users/nerooc/Documents/Git/todolist/spring-todo/todo-be/src/main/java/com/example/fullstackapp/application/ItemService.java
+/Users/nerooc/Documents/Git/todolist/spring-todo/todo-be/src/main/java/com/example/fullstackapp/infrastructure/repository/ItemJpaRepository.java
